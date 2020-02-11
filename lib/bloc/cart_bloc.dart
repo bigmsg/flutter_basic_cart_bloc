@@ -1,7 +1,4 @@
-import 'package:flutter_bloc/flutter_bloc.dart';
-
 import '../item.dart';
-import 'package:bloc/bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
 /*

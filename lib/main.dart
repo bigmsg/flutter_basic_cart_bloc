@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_basic_cart_bloc/bloc/cart_bloc.dart';
 import 'package:flutter_basic_cart_bloc/catalog.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
 
 /*
@@ -13,7 +12,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
   # UI,로직 분리방법 2가지
   1. Bloc(rxdart 패키지)
   2. Provider (Provider 패키지)
-
 
   # Bloc Pattern
   방법1. rxdart(Bloc객체 전역변수 사용) + StreamBuilder <- 가장 심플

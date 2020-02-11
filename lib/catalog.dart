@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_basic_cart_bloc/bloc/cart_provider.dart';
 import 'bloc/cart_bloc.dart';
 import 'cart.dart';
 import 'item.dart';
